@@ -1,0 +1,2 @@
+# PFI-REVOKE-LIST — mỗi dòng một mã bị thu hồi
+E9384-W2MLF2-LL5E3C
