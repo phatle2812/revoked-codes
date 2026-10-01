@@ -1,2 +1,3 @@
 # PFI-REVOKE-LIST — mỗi dòng một mã bị thu hồi
+EZCLH-2NV3KA-BJDN6V
 E9384-W2MLF2-LL5E3C
